@@ -1,4 +1,4 @@
-﻿# LaboratÃ³rio de AnÃºncios com IA v6.2
+# LaboratÃ³rio de AnÃºncios com IA v6.2
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -6,19 +6,19 @@
 </div>
 
 
-Curso aberto INEMA.CLUB. 24 aulas em 8 mÃ³dulos, estilo OSWork v6.2. Seis casos originais e fictÃ­cios: Lume, Vento, Senda, Pulso, Arquivo do Vento e Dobra.
+Curso aberto ARCKHÉ AI. 24 aulas em 8 mÃ³dulos, estilo OSWork v6.2. Seis casos originais e fictÃ­cios: Lume, Vento, Senda, Pulso, Arquivo do Vento e Dobra.
 
 Estimativa completa: 28â€“40 horas de estudo e produÃ§Ã£o, alÃ©m de filas. Requer saber gerar imagens, clipes e editar, ou cursar previamente Prompting, Kling e CapCut.
 
 IlustraÃ§Ãµes geradas pelo recurso nativo de imagens do Codex. A ferramenta nÃ£o expÃµe seletor ou confirmaÃ§Ã£o de uma versÃ£o chamada 2.5; nÃ£o foi substituÃ­da por serviÃ§o externo. O curso fornece roteiros, referÃªncias, pedidos e faixa licenciada. NÃ£o fornece seis campanhas renderizadas nem alega execuÃ§Ã£o de testes de vÃ­deo nos serviÃ§os externos. As atividades exigem arquivos produzidos pelo aluno; pendÃªncia nÃ£o equivale a conclusÃ£o.
 
-O kit reutiliza trecho de Carefree, Kevin MacLeod, CC BY 4.0, obtido pelo INEMAVOX e creditado. NÃ£o publica material privado do acervo de anÃ¡lise.
+O kit reutiliza trecho de Carefree, Kevin MacLeod, CC BY 4.0, obtido pelo ARCKHÉVOX e creditado. NÃ£o publica material privado do acervo de anÃ¡lise.
 
 ReconstruÃ§Ã£o: python3 montar.py. EvidÃªncias em context/.
 
 ## English / EspaÃ±ol
 
-[English](https://inematds.github.io/curso-laboratorio-anuncios-ia/en/) Â· [EspaÃ±ol](https://inematds.github.io/curso-laboratorio-anuncios-ia/es/)
+[English](https://linnoff88-dev.github.io/ Â· [EspaÃ±ol](https://linnoff88-dev.github.io/
 
 Textos traduzidos com GPT-6 Luna por subagentes nativos da assinatura Codex, sem API externa. IlustraÃ§Ãµes originais compartilhadas; progresso e anotaÃ§Ãµes separados por idioma.
 
@@ -34,13 +34,13 @@ Requer Python/BeautifulSoup e os pacotes locais Babel/Playwright indicados nos s
 
 EvidÃªncias em `context/validacao-i18n.md`. RevisÃµes por agentes sÃ£o simuladas, nÃ£o testes com alunos reais.
 
-<!-- inema-backlink:v1 -->
-## Mais no INEMA.CLUB
+<!-- ARCKHÉ-backlink:v1 -->
+## Mais no ARCKHÉ AI
 
-- [Ficha completa deste curso](https://www.inema.club/cursos/298-laboratorio-de-anuncios-com-ia-6-cases-desmontados/)
-- [Guia: como aprender inteligÃªncia artificial](https://www.inema.club/aprender-inteligencia-artificial/)
-- [Todos os cursos](https://www.inema.club/cursos/)
-<!-- /inema-backlink:v1 -->
+- [Ficha completa deste curso](https://www.ARCKHÉ AI/cursos/298-laboratorio-de-anuncios-com-ia-6-cases-desmontados/)
+- [Guia: como aprender inteligÃªncia artificial](https://www.ARCKHÉ AI/aprender-inteligencia-artificial/)
+- [Todos os cursos](https://www.ARCKHÉ AI/cursos/)
+<!-- /ARCKHÉ-backlink:v1 -->
 
 ---
 
