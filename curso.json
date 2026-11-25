@@ -1,18 +1,18 @@
 {
   "id": "laboratorio-anuncios-v62",
-  "titulo": "LaboratÃ³rio de AnÃºncios com IA: 6 Cases Desmontados v6.2",
-  "titulo_html": "Desmonte a ideia. <em>Construa o anÃºncio.</em>",
-  "curso_curto": "LaboratÃ³rio de AnÃºncios v6.2",
-  "kicker": "ProduÃ§Ã£o v6.2 Â· 8 mÃ³dulos Â· 24 aulas",
-  "lead": "Seis casos autorais, do roteiro Ã  revisÃ£o, com marcas fictÃ­cias e decisÃµes que vocÃª consegue conferir.",
+  "titulo": "Laboratório de Anúncios com IA: 6 Cases Desmontados v6.2",
+  "titulo_html": "Desmonte a ideia. <em>Construa o anúncio.</em>",
+  "curso_curto": "Laboratório de Anúncios v6.2",
+  "kicker": "Produçêo v6.2 · 8 módulos · 24 aulas",
+  "lead": "Seis casos autorais, do roteiro à revisêo, com marcas fictícias e decisões que você consegue conferir.",
   "imagem_trilha": "assets/img/trilha.webp",
-  "alt_trilha": "Diretora e lojista planejam uma produÃ§Ã£o com referÃªncias.",
-  "rodape": "LaboratÃ³rio de AnÃºncios v6.2 Â· ARCKHÉ AI PRO Â· <a href=\"landing.html\">sobre o curso</a>",
+  "alt_trilha": "Diretora e lojista planejam uma produçêo com referências.",
+  "rodape": "Laboratório de Anúncios v6.2 · ARCKH� AI PRO · <a href=\"landing.html\">sobre o curso</a>",
   "landing": "landing.html",
   "glossario": true,
   "modulos": [
     {
-      "titulo": "MÃ³dulo 1 Â· Lume Â· anÃºncio narrado",
+      "titulo": "Módulo 1 · Lume · anúncio narrado",
       "resumo": "Ligue nove cenas por uma mensagem e uma voz clara.",
       "aulas": [
         1,
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "titulo": "MÃ³dulo 2 Â· Vento Â· sequÃªncia musical",
+      "titulo": "Módulo 2 · Vento · sequência musical",
       "resumo": "Planeje o som e confira quatro trechos encadeados.",
       "aulas": [
         4,
@@ -30,7 +30,7 @@
       ]
     },
     {
-      "titulo": "MÃ³dulo 3 Â· Senda Â· produto e storyboard",
+      "titulo": "Módulo 3 · Senda · produto e storyboard",
       "resumo": "Desenhe cinco planos e preserve o produto nas passagens.",
       "aulas": [
         7,
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "titulo": "MÃ³dulo 4 Â· Pulso Â· anÃºncio esportivo",
+      "titulo": "Módulo 4 · Pulso · anúncio esportivo",
       "resumo": "Reduza o escopo e confira apoio, corpo e ritmo.",
       "aulas": [
         10,
@@ -48,8 +48,8 @@
       ]
     },
     {
-      "titulo": "MÃ³dulo 5 Â· Arquivo do Vento Â· primeira pessoa",
-      "resumo": "Use quatro referÃªncias e um mapa de continuidade espacial.",
+      "titulo": "Módulo 5 · Arquivo do Vento · primeira pessoa",
+      "resumo": "Use quatro referências e um mapa de continuidade espacial.",
       "aulas": [
         13,
         14,
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "titulo": "MÃ³dulo 6 Â· Dobra Â· demonstraÃ§Ã£o com personagem",
+      "titulo": "Módulo 6 · Dobra · demonstraçêo com personagem",
       "resumo": "Organize sete cenas identificadas, sem depoimento inventado.",
       "aulas": [
         16,
@@ -66,8 +66,8 @@
       ]
     },
     {
-      "titulo": "MÃ³dulo 7 Â· Processo de produÃ§Ã£o",
-      "resumo": "Rastreie arquivos, tentativas e revisÃ£o.",
+      "titulo": "Módulo 7 · Processo de produçêo",
+      "resumo": "Rastreie arquivos, tentativas e revisêo.",
       "aulas": [
         19,
         20,
@@ -75,8 +75,8 @@
       ]
     },
     {
-      "titulo": "MÃ³dulo 8 Â· Acabamento e entrega",
-      "resumo": "Compare versÃµes e organize seis estudos com um acabamento final.",
+      "titulo": "Módulo 8 · Acabamento e entrega",
+      "resumo": "Compare versões e organize seis estudos com um acabamento final.",
       "aulas": [
         22,
         23,

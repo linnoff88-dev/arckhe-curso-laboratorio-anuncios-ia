@@ -1,6 +1,6 @@
 # Fontes oficiais
 
-Consultadas em25/09/2026. Recursos variam conforme conta e versão.
+Consultadas em25/09/2026. Recursos variam conforme conta e versêo.
 
 - [Kling: vídeo](https://kling.ai/quickstart/klingai-video-3-model-user-guide)
 - [Kling: início e fim](https://kling.ai/quickstart/ai-video-start-end-frames)
@@ -9,4 +9,4 @@ Consultadas em25/09/2026. Recursos variam conforme conta e versão.
 - [Suno: condições de uso da música](https://help.suno.com/en/articles/2416769)
 - [Voz sintética](https://elevenlabs.io/docs/eleven-creative/playground/text-to-speech)
 - [Carefree: fonte da faixa do kit](https://incompetech.com/music/royalty-free/index.html?gt=&isrc=USUAN1400037)
-- [Atribuição da faixa](https://creativecommons.org/licenses/by/4.0/)
+- [Atribuiçêo da faixa](https://creativecommons.org/licenses/by/4.0/)

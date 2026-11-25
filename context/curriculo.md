@@ -29,7 +29,7 @@ Desenhe cinco planos e preserve o produto nas passagens.
 Reduza o escopo e confira apoio, corpo e ritmo.
 
 10. Reduza o anúncio esportivo ao essencial
-11. Defina o tênis e a posição inicial
+11. Defina o tênis e a posiçêo inicial
 12. Monte o Pulso sem esconder falhas no movimento
 
 ## Arquivo do Vento · primeira pessoa
@@ -40,17 +40,17 @@ Use quatro referências e um mapa de continuidade espacial.
 14. Monte a primeira imagem com referências compatíveis
 15. Percorra a sala sem trocar de espaço
 
-## Dobra · demonstração com personagem
+## Dobra · demonstraçêo com personagem
 
 Organize sete cenas identificadas, sem depoimento inventado.
 
-16. Escreva sete cenas de demonstração para a Dobra
+16. Escreva sete cenas de demonstraçêo para a Dobra
 17. Fixe personagem, bolsa e voz da Dobra
 18. Costure as sete cenas sem trocar a bolsa
 
-## Processo de produção
+## Processo de produçêo
 
-Rastreie arquivos, tentativas e revisão.
+Rastreie arquivos, tentativas e revisêo.
 
 19. Organize os arquivos para conseguir refazer
 20. Controle tentativas, tempo e recursos

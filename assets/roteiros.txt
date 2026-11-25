@@ -1,259 +1,259 @@
-LABORATÃ“RIO DE ANÃšNCIOS â€” ROTEIROS AUTORAIS
+LABORATêâRIO DE ANêÅ¡NCIOS ê¢â¬â ROTEIROS AUTORAIS
 
-Casos fictÃ­cios, sem campanhas reais ou resultados alegados.
+Casos fictêÂ­cios, sem campanhas reais ou resultados alegados.
 
-Formato vertical 9:16. Identifique a ficÃ§Ã£o com IA na peÃ§a.
+Formato vertical 9:16. Identifique a ficêÂ§êÂ£o com IA na peêÂ§a.
 
 
-Lume Â· anÃºncio narrado
+Lume êÂ· anêÂºncio narrado
 
-Lanterna cilÃ­ndrica magenta, alÃ§a preta e uma lente frontal. Pedra escura e ambiente azul. NÃ£o representa desempenho real.
+Lanterna cilêÂ­ndrica magenta, alêÂ§a preta e uma lente frontal. Pedra escura e ambiente azul. NêÂ£o representa desempenho real.
 
-1. 0â€“2s â€” Produto na penumbra
-Imagem: Lanterna inteira sobre pedra escura; contorno magenta visÃ­vel, espaÃ§o para texto no editor.
-Movimento: CÃ¢mera fixa; nÃ©voa leve.
-ConferÃªncia: O produto pode ser reconhecido pelo contorno.
+1. 0ê¢â¬â2s ê¢â¬â Produto na penumbra
+Imagem: Lanterna inteira sobre pedra escura; contorno magenta visêÂ­vel, espaêÂ§o para texto no editor.
+Movimento: CêÂ¢mera fixa; nêÂ©voa leve.
+ConferêÂªncia: O produto pode ser reconhecido pelo contorno.
 
-2. 2â€“4s â€” Feixe aparece
-Imagem: Mesma lanterna acesa; feixe suave na nÃ©voa azul.
-Movimento: A nÃ©voa se move sem alterar a lente.
-ConferÃªncia: Uma lente, uma alÃ§a, forma preservada.
+2. 2ê¢â¬â4s ê¢â¬â Feixe aparece
+Imagem: Mesma lanterna acesa; feixe suave na nêÂ©voa azul.
+Movimento: A nêÂ©voa se move sem alterar a lente.
+ConferêÂªncia: Uma lente, uma alêÂ§a, forma preservada.
 
-3. 4â€“6s â€” ApresentaÃ§Ã£o inteira
-Imagem: Mesma lanterna totalmente visÃ­vel sobre a pedra.
-Movimento: AproximaÃ§Ã£o pequena e lenta.
-ConferÃªncia: Nenhuma parte desaparece.
+3. 4ê¢â¬â6s ê¢â¬â ApresentaêÂ§êÂ£o inteira
+Imagem: Mesma lanterna totalmente visêÂ­vel sobre a pedra.
+Movimento: AproximaêÂ§êÂ£o pequena e lenta.
+ConferêÂªncia: Nenhuma parte desaparece.
 
-4. 6â€“8s â€” Textura do corpo
-Imagem: Detalhe do corpo magenta, mesma proporÃ§Ã£o e material.
+4. 6ê¢â¬â8s ê¢â¬â Textura do corpo
+Imagem: Detalhe do corpo magenta, mesma proporêÂ§êÂ£o e material.
 Movimento: Luz varia suavemente; produto parado.
-ConferÃªncia: Textura nÃ£o vira letras ou marca.
+ConferêÂªncia: Textura nêÂ£o vira letras ou marca.
 
-5. 8â€“10s â€” AlÃ§a
-Imagem: Detalhe da alÃ§a preta presa ao corpo, apoio natural.
-Movimento: CÃ¢mera estÃ¡vel.
-ConferÃªncia: AlÃ§a continua presa e nÃ£o se multiplica.
+5. 8ê¢â¬â10s ê¢â¬â AlêÂ§a
+Imagem: Detalhe da alêÂ§a preta presa ao corpo, apoio natural.
+Movimento: CêÂ¢mera estêÂ¡vel.
+ConferêÂªncia: AlêÂ§a continua presa e nêÂ£o se multiplica.
 
-6. 10â€“12s â€” Escala no ambiente
-Imagem: Produto inteiro na mesma pedra, mais espaÃ§o azul ao redor.
-Movimento: NÃ©voa passa ao fundo.
-ConferÃªncia: A escala nÃ£o muda durante o clipe.
+6. 10ê¢â¬â12s ê¢â¬â Escala no ambiente
+Imagem: Produto inteiro na mesma pedra, mais espaêÂ§o azul ao redor.
+Movimento: NêÂ©voa passa ao fundo.
+ConferêÂªncia: A escala nêÂ£o muda durante o clipe.
 
-7. 12â€“14s â€” Luz e matÃ©ria
-Imagem: Lente e corpo visÃ­veis, brilho controlado.
-Movimento: Pequena mudanÃ§a de luz.
-ConferÃªncia: Brilho nÃ£o apaga a forma do produto.
+7. 12ê¢â¬â14s ê¢â¬â Luz e matêÂ©ria
+Imagem: Lente e corpo visêÂ­veis, brilho controlado.
+Movimento: Pequena mudanêÂ§a de luz.
+ConferêÂªncia: Brilho nêÂ£o apaga a forma do produto.
 
-8. 14â€“16s â€” Retorno ao conjunto
-Imagem: Mesma composiÃ§Ã£o principal com produto inteiro.
-Movimento: Movimento reduz atÃ© parar.
-ConferÃªncia: AlÃ§a, lente e corpo mantidos.
+8. 14ê¢â¬â16s ê¢â¬â Retorno ao conjunto
+Imagem: Mesma composiêÂ§êÂ£o principal com produto inteiro.
+Movimento: Movimento reduz atêÂ© parar.
+ConferêÂªncia: AlêÂ§a, lente e corpo mantidos.
 
-9. 16â€“18s â€” Encerramento
+9. 16ê¢â¬â18s ê¢â¬â Encerramento
 Imagem: Produto inteiro, fundo limpo para frase adicionada no editor.
-Movimento: CÃ¢mera fixa.
-ConferÃªncia: Nome e identificaÃ§Ã£o cabem sem cobrir o objeto.
+Movimento: CêÂ¢mera fixa.
+ConferêÂªncia: Nome e identificaêÂ§êÂ£o cabem sem cobrir o objeto.
 
-Som: Quando tudo parece igual, uma pausa muda o olhar. Lume: imagine outro caminho. Grave em ritmo natural, ouÃ§a e distribua a frase pelos 18 segundos. NÃ£o corte palavras para caber.
+Som: Quando tudo parece igual, uma pausa muda o olhar. Lume: imagine outro caminho. Grave em ritmo natural, ouêÂ§a e distribua a frase pelos 18 segundos. NêÂ£o corte palavras para caber.
 
-Pronto: Nove cenas, 18 segundos, produto coerente e voz compreensÃ­vel. IdentificaÃ§Ã£o: conceito fictÃ­cio com IA.
+Pronto: Nove cenas, 18 segundos, produto coerente e voz compreensêÂ­vel. IdentificaêÂ§êÂ£o: conceito fictêÂ­cio com IA.
 
 
-Vento Â· sequÃªncia musical
+Vento êÂ· sequêÂªncia musical
 
-Pessoa adulta de roupa coral, corredor de vidro verde, mesma luz e direÃ§Ã£o. Quatro clipes editados; nÃ£o Ã© tomada real Ãºnica.
+Pessoa adulta de roupa coral, corredor de vidro verde, mesma luz e direêÂ§êÂ£o. Quatro clipes editados; nêÂ£o êÂ© tomada real êÂºnica.
 
-1. 0â€“5s â€” ComeÃ§ar
-Imagem: Pessoa inteira no comeÃ§o do corredor, braÃ§os relaxados.
-Movimento: ComeÃ§a a caminhar devagar; cÃ¢mera acompanha.
-ConferÃªncia: Corpo, roupa e pilares estÃ¡veis.
+1. 0ê¢â¬â5s ê¢â¬â ComeêÂ§ar
+Imagem: Pessoa inteira no comeêÂ§o do corredor, braêÂ§os relaxados.
+Movimento: ComeêÂ§a a caminhar devagar; cêÂ¢mera acompanha.
+ConferêÂªncia: Corpo, roupa e pilares estêÂ¡veis.
 
-2. 5â€“10s â€” AvanÃ§ar
-Imagem: Use o Ãºltimo quadro limpo anterior; mesma pessoa alguns passos adiante.
-Movimento: Continua na mesma direÃ§Ã£o.
-ConferÃªncia: PosiÃ§Ã£o e escala encaixam na passagem.
+2. 5ê¢â¬â10s ê¢â¬â AvanêÂ§ar
+Imagem: Use o êÂºltimo quadro limpo anterior; mesma pessoa alguns passos adiante.
+Movimento: Continua na mesma direêÂ§êÂ£o.
+ConferêÂªncia: PosiêÂ§êÂ£o e escala encaixam na passagem.
 
-3. 10â€“15s â€” Faixa de luz
+3. 10ê¢â¬â15s ê¢â¬â Faixa de luz
 Imagem: Mesma pessoa atravessa uma faixa de sol no piso.
 Movimento: Caminhada pequena, sem giro.
-ConferÃªncia: Luz pertence ao espaÃ§o, nÃ£o muda a roupa.
+ConferêÂªncia: Luz pertence ao espaêÂ§o, nêÂ£o muda a roupa.
 
-4. 15â€“20s â€” Parar
+4. 15ê¢â¬â20s ê¢â¬â Parar
 Imagem: Mesmo corredor; pessoa encerra o passo.
-Movimento: Movimento desacelera atÃ© parar.
-ConferÃªncia: PÃ©s nÃ£o deslizam e mÃºsica termina de forma deliberada.
+Movimento: Movimento desacelera atêÂ© parar.
+ConferêÂªncia: PêÂ©s nêÂ£o deslizam e mêÂºsica termina de forma deliberada.
 
-Som: Instrumental do kit ao longo dos 20 segundos. OuÃ§a antes de decidir as emendas. Os intervalos sÃ£o uma estrutura de estudo, nÃ£o uma anÃ¡lise de batidas da faixa.
+Som: Instrumental do kit ao longo dos 20 segundos. OuêÂ§a antes de decidir as emendas. Os intervalos sêÂ£o uma estrutura de estudo, nêÂ£o uma anêÂ¡lise de batidas da faixa.
 
-Pronto: Quatro trechos, trÃªs emendas conferidas, som contÃ­nuo e crÃ©ditos preservados. IdentificaÃ§Ã£o: estudo fictÃ­cio com IA.
+Pronto: Quatro trechos, trêÂªs emendas conferidas, som contêÂ­nuo e crêÂ©ditos preservados. IdentificaêÂ§êÂ£o: estudo fictêÂ­cio com IA.
 
 
-Senda Â· produto com cinco planos
+Senda êÂ· produto com cinco planos
 
-ArmaÃ§Ã£o Ã¢mbar translÃºcida, duas lentes escuras, ponte e duas hastes. Papel creme. Sem alegaÃ§Ãµes de proteÃ§Ã£o ou saÃºde.
+ArmaêÂ§êÂ£o êÂ¢mbar translêÂºcida, duas lentes escuras, ponte e duas hastes. Papel creme. Sem alegaêÂ§êÂµes de proteêÂ§êÂ£o ou saêÂºde.
 
-1. 0â€“3s â€” Inteiro
-Imagem: Ã“culos inteiros sobre papel creme, margem para as hastes.
-Movimento: AproximaÃ§Ã£o lenta.
-ConferÃªncia: Conjunto reconhecÃ­vel.
+1. 0ê¢â¬â3s ê¢â¬â Inteiro
+Imagem: êâculos inteiros sobre papel creme, margem para as hastes.
+Movimento: AproximaêÂ§êÂ£o lenta.
+ConferêÂªncia: Conjunto reconhecêÂ­vel.
 
-2. 3â€“6s â€” Papel
-Imagem: Mesma armaÃ§Ã£o, dobra de papel em primeiro plano.
+2. 3ê¢â¬â6s ê¢â¬â Papel
+Imagem: Mesma armaêÂ§êÂ£o, dobra de papel em primeiro plano.
 Movimento: Dobra se move suavemente.
-ConferÃªncia: Papel nÃ£o transforma o produto.
+ConferêÂªncia: Papel nêÂ£o transforma o produto.
 
-3. 6â€“9s â€” Material
-Imagem: Detalhe da armaÃ§Ã£o Ã¢mbar e da dobradiÃ§a.
-Movimento: CÃ¢mera quase parada.
-ConferÃªncia: Material e junÃ§Ãµes coerentes.
+3. 6ê¢â¬â9s ê¢â¬â Material
+Imagem: Detalhe da armaêÂ§êÂ£o êÂ¢mbar e da dobradiêÂ§a.
+Movimento: CêÂ¢mera quase parada.
+ConferêÂªncia: Material e junêÂ§êÂµes coerentes.
 
-4. 9â€“12s â€” Ã‚ngulo
-Imagem: Mesma referÃªncia, Ã¢ngulo levemente diferente.
-Movimento: Movimento mÃ­nimo, sem giro completo.
-ConferÃªncia: Duas hastes sem atravessar lentes.
+4. 9ê¢â¬â12s ê¢â¬â êângulo
+Imagem: Mesma referêÂªncia, êÂ¢ngulo levemente diferente.
+Movimento: Movimento mêÂ­nimo, sem giro completo.
+ConferêÂªncia: Duas hastes sem atravessar lentes.
 
-5. 12â€“15s â€” Encerramento
+5. 12ê¢â¬â15s ê¢â¬â Encerramento
 Imagem: Produto inteiro com fundo limpo.
-Movimento: CÃ¢mera fixa.
-ConferÃªncia: Frase Senda: observe os detalhes legÃ­vel.
+Movimento: CêÂ¢mera fixa.
+ConferêÂªncia: Frase Senda: observe os detalhes legêÂ­vel.
 
-Som: MÃºsica autorizada opcional. A peÃ§a funciona sem voz. Se usar o trecho do kit, recorte conscientemente para 15 segundos e preserve o crÃ©dito.
+Som: MêÂºsica autorizada opcional. A peêÂ§a funciona sem voz. Se usar o trecho do kit, recorte conscientemente para 15 segundos e preserve o crêÂ©dito.
 
-Pronto: Cinco cenas, 15 segundos, construÃ§Ã£o coerente e frase legÃ­vel. IdentificaÃ§Ã£o: conceito fictÃ­cio com IA.
+Pronto: Cinco cenas, 15 segundos, construêÂ§êÂ£o coerente e frase legêÂ­vel. IdentificaêÂ§êÂ£o: conceito fictêÂ­cio com IA.
 
 
-Pulso Â· anÃºncio esportivo reduzido
+Pulso êÂ· anêÂºncio esportivo reduzido
 
-TÃªnis coral, sola creme, cadarÃ§os corais; roupa azul marinho e pista azul. NÃ£o promete desempenho nem saÃºde.
+TêÂªnis coral, sola creme, cadarêÂ§os corais; roupa azul marinho e pista azul. NêÂ£o promete desempenho nem saêÂºde.
 
-1. 0â€“4s â€” Produto
-Imagem: TÃªnis lateral apoiado na pista azul.
-Movimento: CÃ¢mera fixa ou aproximaÃ§Ã£o pequena.
-ConferÃªncia: Contato com a pista e solado coerentes.
+1. 0ê¢â¬â4s ê¢â¬â Produto
+Imagem: TêÂªnis lateral apoiado na pista azul.
+Movimento: CêÂ¢mera fixa ou aproximaêÂ§êÂ£o pequena.
+ConferêÂªncia: Contato com a pista e solado coerentes.
 
-2. 4â€“8s â€” PreparaÃ§Ã£o
-Imagem: Pessoa adulta parada em pÃ©, braÃ§os soltos, roupa azul marinho, calÃ§ando a referÃªncia.
-Movimento: Pequena mudanÃ§a de peso.
-ConferÃªncia: Duas pernas, dois pÃ©s, equilÃ­brio.
+2. 4ê¢â¬â8s ê¢â¬â PreparaêÂ§êÂ£o
+Imagem: Pessoa adulta parada em pêÂ©, braêÂ§os soltos, roupa azul marinho, calêÂ§ando a referêÂªncia.
+Movimento: Pequena mudanêÂ§a de peso.
+ConferêÂªncia: Duas pernas, dois pêÂ©s, equilêÂ­brio.
 
-3. 8â€“12s â€” Um passo
-Imagem: Mesma pessoa e direÃ§Ã£o, espaÃ§o para avanÃ§ar um pÃ©.
+3. 8ê¢â¬â12s ê¢â¬â Um passo
+Imagem: Mesma pessoa e direêÂ§êÂ£o, espaêÂ§o para avanêÂ§ar um pêÂ©.
 Movimento: Um passo curto e apoio na pista.
-ConferÃªncia: PÃ© nÃ£o atravessa chÃ£o; corpo nÃ£o se multiplica.
+ConferêÂªncia: PêÂ© nêÂ£o atravessa chêÂ£o; corpo nêÂ£o se multiplica.
 
-Som: TrÃªs batidas leves gravadas por vocÃª podem marcar a ediÃ§Ã£o. SÃ£o um recurso de ritmo, nÃ£o um registro cardÃ­aco. Alternativa: primeiro montar em silÃªncio.
+Som: TrêÂªs batidas leves gravadas por vocêÂª podem marcar a ediêÂ§êÂ£o. SêÂ£o um recurso de ritmo, nêÂ£o um registro cardêÂ­aco. Alternativa: primeiro montar em silêÂªncio.
 
-Pronto: TrÃªs cenas, 12 segundos, apoio e anatomia conferidos. IdentificaÃ§Ã£o: conceito fictÃ­cio com IA.
+Pronto: TrêÂªs cenas, 12 segundos, apoio e anatomia conferidos. IdentificaêÂ§êÂ£o: conceito fictêÂ­cio com IA.
 
 
-Arquivo do Vento Â· primeira pessoa
+Arquivo do Vento êÂ· primeira pessoa
 
-Quatro referÃªncias: sala terracota, instrumento astronÃ´mico de latÃ£o, luvas cinza e luz do teto circular. NÃ£o representa local existente.
+Quatro referêÂªncias: sala terracota, instrumento astronêÂ´mico de latêÂ£o, luvas cinza e luz do teto circular. NêÂ£o representa local existente.
 
-1. 0â€“4s â€” Entrada
-Imagem: VisÃ£o da entrada para a mesa; luz da abertura circular.
-Movimento: AvanÃ§o lento.
-ConferÃªncia: Mesa e teto correspondem ao mapa.
+1. 0ê¢â¬â4s ê¢â¬â Entrada
+Imagem: VisêÂ£o da entrada para a mesa; luz da abertura circular.
+Movimento: AvanêÂ§o lento.
+ConferêÂªncia: Mesa e teto correspondem ao mapa.
 
-2. 4â€“8s â€” AproximaÃ§Ã£o
-Imagem: Mesma sala, mesa mais prÃ³xima; objeto permanece no centro da aÃ§Ã£o.
-Movimento: AvanÃ§o pequeno, sem atravessar mesa.
-ConferÃªncia: AproximaÃ§Ã£o coerente com a escala.
+2. 4ê¢â¬â8s ê¢â¬â AproximaêÂ§êÂ£o
+Imagem: Mesma sala, mesa mais prêÂ³xima; objeto permanece no centro da aêÂ§êÂ£o.
+Movimento: AvanêÂ§o pequeno, sem atravessar mesa.
+ConferêÂªncia: AproximaêÂ§êÂ£o coerente com a escala.
 
-3. 8â€“12s â€” ObservaÃ§Ã£o
-Imagem: Instrumento de latÃ£o prÃ³ximo; luvas na base do quadro.
-Movimento: MÃ£os estÃ¡veis; leve ajuste do olhar.
-ConferÃªncia: MÃ£os e objeto sem deformaÃ§Ã£o.
+3. 8ê¢â¬â12s ê¢â¬â ObservaêÂ§êÂ£o
+Imagem: Instrumento de latêÂ£o prêÂ³ximo; luvas na base do quadro.
+Movimento: MêÂ£os estêÂ¡veis; leve ajuste do olhar.
+ConferêÂªncia: MêÂ£os e objeto sem deformaêÂ§êÂ£o.
 
-4. 12â€“16s â€” Encerramento
-Imagem: Mesmo ponto de vista, instrumento e sala reconhecÃ­veis.
+4. 12ê¢â¬â16s ê¢â¬â Encerramento
+Imagem: Mesmo ponto de vista, instrumento e sala reconhecêÂ­veis.
 Movimento: Movimento termina com calma.
-ConferÃªncia: Portas, teto e mesa permanecem no lugar.
+ConferêÂªncia: Portas, teto e mesa permanecem no lugar.
 
-Som: Som ambiente prÃ³prio ou autorizado, discreto. Pode comeÃ§ar em silÃªncio para conferir o espaÃ§o. MÃºsica e susto nÃ£o sÃ£o obrigatÃ³rios.
+Som: Som ambiente prêÂ³prio ou autorizado, discreto. Pode comeêÂ§ar em silêÂªncio para conferir o espaêÂ§o. MêÂºsica e susto nêÂ£o sêÂ£o obrigatêÂ³rios.
 
-Pronto: Quatro cenas, 16 segundos, trÃªs passagens espaciais conferidas. IdentificaÃ§Ã£o: universo fictÃ­cio com IA.
+Pronto: Quatro cenas, 16 segundos, trêÂªs passagens espaciais conferidas. IdentificaêÂ§êÂ£o: universo fictêÂ­cio com IA.
 
 
-Dobra Â· demonstraÃ§Ã£o em sete cenas
+Dobra êÂ· demonstraêÂ§êÂ£o em sete cenas
 
-Jo: pele morena, cabelo preto curto, blusa creme. Bolsa retangular de lona oliva com duas alÃ§as creme. Personagem e produto fictÃ­cios.
+Jo: pele morena, cabelo preto curto, blusa creme. Bolsa retangular de lona oliva com duas alêÂ§as creme. Personagem e produto fictêÂ­cios.
 
-1. 0â€“3s â€” ApresentaÃ§Ã£o
+1. 0ê¢â¬â3s ê¢â¬â ApresentaêÂ§êÂ£o
 Imagem: Jo de meio corpo segurando a bolsa inteira.
-Movimento: Fala curta, gestos mÃ­nimos.
-ConferÃªncia: Veja o formato. Boca e voz conferidas, ou narraÃ§Ã£o identificada.
+Movimento: Fala curta, gestos mêÂ­nimos.
+ConferêÂªncia: Veja o formato. Boca e voz conferidas, ou narraêÂ§êÂ£o identificada.
 
-2. 3â€“6s â€” Inteiro
-Imagem: Bolsa inteira, mesma referÃªncia.
-Movimento: CÃ¢mera fixa.
-ConferÃªncia: A bolsa por inteiro. Forma retangular preservada.
+2. 3ê¢â¬â6s ê¢â¬â Inteiro
+Imagem: Bolsa inteira, mesma referêÂªncia.
+Movimento: CêÂ¢mera fixa.
+ConferêÂªncia: A bolsa por inteiro. Forma retangular preservada.
 
-3. 6â€“9s â€” AlÃ§as
-Imagem: Detalhe das alÃ§as creme presas ao corpo da bolsa.
-Movimento: MÃ£o segura sem torcer.
-ConferÃªncia: Observe as alÃ§as. MÃ£o e tecido nÃ£o se fundem.
+3. 6ê¢â¬â9s ê¢â¬â AlêÂ§as
+Imagem: Detalhe das alêÂ§as creme presas ao corpo da bolsa.
+Movimento: MêÂ£o segura sem torcer.
+ConferêÂªncia: Observe as alêÂ§as. MêÂ£o e tecido nêÂ£o se fundem.
 
-4. 9â€“12s â€” Tecido
+4. 9ê¢â¬â12s ê¢â¬â Tecido
 Imagem: Detalhe da lona oliva.
-Movimento: AproximaÃ§Ã£o pequena.
-ConferÃªncia: Detalhe do tecido. Textura nÃ£o muda de material.
+Movimento: AproximaêÂ§êÂ£o pequena.
+ConferêÂªncia: Detalhe do tecido. Textura nêÂ£o muda de material.
 
-5. 12â€“15s â€” Abertura
-Imagem: Bolsa aberta, sem alegaÃ§Ã£o de capacidade ou objetos surgindo.
-Movimento: Movimento mÃ­nimo.
-ConferÃªncia: Veja a abertura. Bordas e alÃ§as coerentes.
+5. 12ê¢â¬â15s ê¢â¬â Abertura
+Imagem: Bolsa aberta, sem alegaêÂ§êÂ£o de capacidade ou objetos surgindo.
+Movimento: Movimento mêÂ­nimo.
+ConferêÂªncia: Veja a abertura. Bordas e alêÂ§as coerentes.
 
-6. 15â€“18s â€” Conjunto
+6. 15ê¢â¬â18s ê¢â¬â Conjunto
 Imagem: Jo e bolsa inteiras no enquadramento de meio corpo.
 Movimento: Pose simples.
-ConferÃªncia: Compare o conjunto. Rosto, roupa e produto preservados.
+ConferêÂªncia: Compare o conjunto. Rosto, roupa e produto preservados.
 
-7. 18â€“21s â€” Encerramento
-Imagem: Produto visÃ­vel e espaÃ§o para identificaÃ§Ã£o.
-Movimento: CÃ¢mera fixa.
-ConferÃªncia: ConheÃ§a o conceito Dobra. Frase inteira e legÃ­vel.
+7. 18ê¢â¬â21s ê¢â¬â Encerramento
+Imagem: Produto visêÂ­vel e espaêÂ§o para identificaêÂ§êÂ£o.
+Movimento: CêÂ¢mera fixa.
+ConferêÂªncia: ConheêÂ§a o conceito Dobra. Frase inteira e legêÂ­vel.
 
-Som: Use as sete frases curtas indicadas, com pausas. Voz prÃ³pria ou sintÃ©tica permitida. NarraÃ§Ã£o sobre detalhes reduz a necessidade de sincronizaÃ§Ã£o. NÃ£o invente experiÃªncia de compra.
+Som: Use as sete frases curtas indicadas, com pausas. Voz prêÂ³pria ou sintêÂ©tica permitida. NarraêÂ§êÂ£o sobre detalhes reduz a necessidade de sincronizaêÂ§êÂ£o. NêÂ£o invente experiêÂªncia de compra.
 
-Pronto: Sete cenas, 21 segundos, fala, personagem e bolsa coerentes. IdentificaÃ§Ã£o visÃ­vel: DemonstraÃ§Ã£o fictÃ­cia com IA.
+Pronto: Sete cenas, 21 segundos, fala, personagem e bolsa coerentes. IdentificaêÂ§êÂ£o visêÂ­vel: DemonstraêÂ§êÂ£o fictêÂ­cia com IA.
 
 CASO:
 CENA:
 ARQUIVO E TENTATIVA:
-REFERÃŠNCIA USADA:
+REFERêÅ NCIA USADA:
 PEDIDO:
-SITUAÃ‡ÃƒO: aprovado / corrigir / pendente
+SITUAêâ¡êÆO: aprovado / corrigir / pendente
 TEMPO DO PROBLEMA:
 O QUE OBSERVEI:
-ALTERAÃ‡ÃƒO A TESTAR:
-TRABALHO ATIVO: medido / estimado / nÃ£o medido
+ALTERAêâ¡êÆO A TESTAR:
+TRABALHO ATIVO: medido / estimado / nêÂ£o medido
 ESPERA DE PROCESSAMENTO:
 TENTATIVAS E CONSUMO CONHECIDO:
 LIMITE E ALTERNATIVA:
 
 CASO ESCOLHIDO:
-PÃšBLICO:
+PêÅ¡BLICO:
 MENSAGEM:
 FORMATO:
-DURAÃ‡ÃƒO E CENAS:
+DURAêâ¡êÆO E CENAS:
 ARQUIVOS ESPERADOS:
-CRITÃ‰RIOS: sequÃªncia / identidade / som / leitura / identificaÃ§Ã£o
-VERSÃƒO ANTERIOR:
-VERSÃƒO REVISADA:
-MUDANÃ‡A E EFEITO OBSERVADO:
-DECISÃƒO:
-ÃNDICE DOS SEIS ESTUDOS:
-Lume â€” 18s â€” arquivo e situaÃ§Ã£o:
-Vento â€” 20s â€” arquivo e situaÃ§Ã£o:
-Senda â€” 15s â€” arquivo e situaÃ§Ã£o:
-Pulso â€” 12s â€” arquivo e situaÃ§Ã£o:
-Arquivo do Vento â€” 16s â€” arquivo e situaÃ§Ã£o:
-Dobra â€” 21s â€” arquivo e situaÃ§Ã£o:
-ACABAMENTO FINAL â€” arquivo e situaÃ§Ã£o:
-FONTES E CRÃ‰DITOS:
-PENDÃŠNCIAS REAIS:
+CRITêâ°RIOS: sequêÂªncia / identidade / som / leitura / identificaêÂ§êÂ£o
+VERSêÆO ANTERIOR:
+VERSêÆO REVISADA:
+MUDANêâ¡A E EFEITO OBSERVADO:
+DECISêÆO:
+êÂNDICE DOS SEIS ESTUDOS:
+Lume ê¢â¬â 18s ê¢â¬â arquivo e situaêÂ§êÂ£o:
+Vento ê¢â¬â 20s ê¢â¬â arquivo e situaêÂ§êÂ£o:
+Senda ê¢â¬â 15s ê¢â¬â arquivo e situaêÂ§êÂ£o:
+Pulso ê¢â¬â 12s ê¢â¬â arquivo e situaêÂ§êÂ£o:
+Arquivo do Vento ê¢â¬â 16s ê¢â¬â arquivo e situaêÂ§êÂ£o:
+Dobra ê¢â¬â 21s ê¢â¬â arquivo e situaêÂ§êÂ£o:
+ACABAMENTO FINAL ê¢â¬â arquivo e situaêÂ§êÂ£o:
+FONTES E CRêâ°DITOS:
+PENDêÅ NCIAS REAIS:
 
 
-CRÃ‰DITO
-Carefree â€” Kevin MacLeod (incompetech.com). LicenÃ§a CC BY 4.0: https://creativecommons.org/licenses/by/4.0/. Trecho inicial de 20 segundos, convertido para MP3. Fonte: https://incompetech.com/music/royalty-free/index.html?gt=&isrc=USUAN1400037. Obtido pelo ARCKHÉVOX em 25/09/2026. Se alterar volume, duraÃ§Ã£o ou aplicar fades, acrescente essa informaÃ§Ã£o ao crÃ©dito.
+CRêâ°DITO
+Carefree ê¢â¬â Kevin MacLeod (incompetech.com). LicenêÂ§a CC BY 4.0: https://creativecommons.org/licenses/by/4.0/. Trecho inicial de 20 segundos, convertido para MP3. Fonte: https://incompetech.com/music/royalty-free/index.html?gt=&isrc=USUAN1400037. Obtido pelo ARCKHêVOX em 25/09/2026. Se alterar volume, duraêÂ§êÂ£o ou aplicar fades, acrescente essa informaêÂ§êÂ£o ao crêÂ©dito.
